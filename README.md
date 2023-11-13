@@ -1,2 +1,2 @@
 # Educational-Institute
-Its about a Educational Institute named as LOGIN360
+It's about a Educational Institute named as LOGIN360
